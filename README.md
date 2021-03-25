@@ -1,4 +1,4 @@
-# ISTA131FP
+# GDP vs SUICIDE RATE
 This is a visualization I've made which relates the number of suicides in a country to the financial condition of that country. 
 Visualizations included - 
 1. Generational Suicides in the United States - How suicides change with generations in the US. 
